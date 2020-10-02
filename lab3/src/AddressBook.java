@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
-
+//add some meanningless comment
 public class    AddressBook {
     private List<BuddyInfo> buddyList;
 
